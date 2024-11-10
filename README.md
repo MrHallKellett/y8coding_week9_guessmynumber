@@ -81,7 +81,7 @@ Adventurer mode = 6 guesses maximum + extra feedback when within 3 away from the
 
 ## STAGE 3:
 
-Have your program record statistic's about the user, and display these once the game has ended.
+Have your program record statistics about the user, and display these once the game has ended.
 
 ```
 	Username      : bob1253
